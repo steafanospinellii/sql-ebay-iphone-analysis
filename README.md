@@ -1,4 +1,4 @@
-# eBay iPhone Resale — SQL Market Analysis
+# eBay iPhone Resale - SQL Market Analysis
 
 SQL market analysis on 2,172 eBay iPhone listings based on pricing, condition premiums, outlier detection, and a fair price estimator
 
